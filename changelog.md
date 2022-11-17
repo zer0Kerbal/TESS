@@ -13,22 +13,35 @@
 ## Version 1.0.5.0-release - `<Archival>` edition
 
 * Released
-  * on 2018-07-06
+  * on 06 Jul 2018
   * for Kerbal Space Program 1.3.1
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
-### including license
+* including license
+
+### Status 1.0.5.0
+
+* Issues
+  * closes #14 - 1.0.5.0-release - `<Archival>` edition
+  * closes #7 - Archival Releases
 
 ---
 
 ## Version 0.4.0.0-release - `<Archival>` edition
 
 * Released
-  * on 2018-04-29
+  * on 29 Apr 2018
   * for Kerbal Space Program 1.2.2
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
 * Reduced size
+  * [rescaleFactor] was 1, now is 0.5
+
+### Status 0.4.0.0
+
+* Issues
+  * updates #7 - Archival Releases
+  * closes #13 - 0.4.0.0-release - `<Archival>` edition
 
 ---
 
@@ -41,5 +54,11 @@
 
 * Add engine
 * Reduce mass
+
+### Status 0.3.0.0
+
+* Issues
+  * updates #7 - Archival Releases
+  * closes #12 - 0.3.0.0-release - `<Archival>` edition
 
 ---

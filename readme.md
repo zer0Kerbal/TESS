@@ -26,6 +26,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See more
 
+>* [wiki: Transiting Exoplanet Survey Satellite](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite)
 >* [GitHub Pages][MOD:pages]
 >* [Marketing Slicks][MOD:markt]
 >* [Parts Catalog][MOD:parts] for part pictures
@@ -43,9 +44,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 > * Compatibility patches
 > * Contracts for these glorious parts
-> * Variant Textures
-> * Converting from FireSpitter to Stock and/or KSPWheel  
-> * Model updates to Unity 2019
+> * Updated and/or Variant Textures
+> * Model updates
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
@@ -75,17 +75,25 @@ or [![CKAN][ckan:img]][ckan:url]
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
 
+### Suggests
+
+* [Biomatic (BIO)][BIO]
+* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
+* [Kaboom (BOOM)][BOOM]
+* [On Demand Fuel Cells (ODFC)][ODFC]
+* [TweakScale (TWK)][twk]
+
+Other mods by [Matheo G][matheog]
+
+* [Insight](https://spacedock.info/mod/1899)
+* [Ariane 6](https://spacedock.info/mod/2185)
+* [New Shepard](https://spacedock.info/mod/2181)
+
 ### Supports
 
 * Either [^3]
   * [Module Manager /L][mml]
   * [Module Manager][mm]
-
-* [On Demand Fuel Cells (ODFC)][ODFC]
-* [Firespitter][fs] for fully functioning wheels. may invoke bouts of dizziness.
-* [NEAR-FAR][far]
-* [Restock][restock]
-* [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 
 ### Tags
 
@@ -183,29 +191,12 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 <!-- links to add-ons/mods -->
 [BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*/ "Biomatic (BIO)"
-[FTF]: https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/ "Field Training Facility (FTF)"
-[FTL]: https://forum.kerbalspaceprogram.com/index.php?/topic/188841-*/ "Field Training Lab (FTL)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom (BOOM)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
-[PIZZA]: https://forum.kerbalspaceprogram.com/index.php?/topic/209577-*/ "Papa Kerballini's Pizza (PIZZA)"
 
-[atp]: https://forum.kerbalspaceprogram.com/index.php?/topic/138433-*/ "JSI Advanced Transparent Pods"
-[b9ps]: https://forum.kerbalspaceprogram.com/index.php?/topic/140541-*/ "B9 Part Switch"
-[ifs]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch"
-[ifsc]: http://forum.kerbalspaceprogram.com/index.php?/topic/106243-*/ "Interstellar Fuel Switch (Core)"
-[fs]: https://github.com/snjo/Firespitter/ "Firespitter"
-[far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
-[kas]: http://forum.kerbalspaceprogram.com/index.php?/topic/142594-*/ "Kerbal Attachment System"
-[kis]: http://forum.kerbalspaceprogram.com/index.php?/topic/149848-*/ "Kerbal Inventory System"
-[kjr]: https://forum.kerbalspaceprogram.com/index.php?/topic/184206-*/ "Kerbal Joint Reinforcement"
-[kspie]: https://forum.kerbalspaceprogram.com/index.php?/topic/172026-*/ "KSP Interstellar Extended (KSPIE)"
-[kurs]: https://github.com/linuxgurugamer/DockingCam "KURS style docking camera"
-[mas]:  https://forum.kerbalspaceprogram.com/index.php?/topic/160856-*/ "MOARdV's Avionics System"
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
 [mml]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
-[restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
-[rpm]: https://forum.kerbalspaceprogram.com/index.php?/topic/105821-*/ "Raster Prop Monitor"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
 
 <!-- financial support -->
