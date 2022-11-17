@@ -14,7 +14,7 @@ repository:
   description: Transiting Exoplanet Survey Satellite (TESS) for Kerbal Space Program.
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*/
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/210656-*/
 
   # A comma-separated list of topics to set on the repository
   topics: transiting-exoplanet-survey-satellite,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-mods,matheog,zedk,contributions-welcome,hacktoberfest,mods
