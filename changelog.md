@@ -35,7 +35,7 @@
 ## Version 0.3.0.0-release - `<Archival>` edition
 
 * Released
-  * on 2018-04-29
+  * on 29 Apr 2018
   * for Kerbal Space Program 1.2.2
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
