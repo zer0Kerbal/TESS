@@ -1,3 +1,15 @@
+# Changelog  
+  
+| modName    | TESS (TESS)                                                       |
+| ---------- | ----------------------------------------------------------------- |
+| license    | WTFPL                                                             |
+| author     | Matheo G and zer0Kerbal                                           |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/210656-*/) |
+| github     | (https://github.com/zer0Kerbal/TESS)                              |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/TESS)                 |
+| spacedock  | (https://spacedock.info/mod/1836)                                 |
+| ckan       | TESSSatellite                                                     |
+
 ## Version 1.0.5.0-release - `<Archival>` edition
 
 * Released
