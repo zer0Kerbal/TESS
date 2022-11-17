@@ -26,6 +26,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See more
 
+>* [wiki: Transiting Exoplanet Survey Satellite](https://en.wikipedia.org/wiki/Transiting_Exoplanet_Survey_Satellite)
 >* [GitHub Pages][MOD:pages]
 >* [Marketing Slicks][MOD:markt]
 >* [Parts Catalog][MOD:parts] for part pictures
