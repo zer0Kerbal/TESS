@@ -17,7 +17,13 @@
   * for Kerbal Space Program 1.3.1
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
-### including license
+* including license
+
+### Status 1.0.5.0
+
+* Issues
+  * closes #14 - 1.0.5.0-release - `<Archival>` edition
+  * closes #7 - Archival Releases
 
 ---
 
@@ -30,6 +36,12 @@
 
 * Reduced size
 
+### Status 0.4.0.0
+
+* Issues
+  * updates #7 - Archival Releases
+  * closes #13 - 0.4.0.0-release - `<Archival>` edition
+
 ---
 
 ## Version 0.3.0.0-release - `<Archival>` edition
@@ -41,5 +53,11 @@
 
 * Add engine
 * Reduce mass
+
+### Status 0.3.0.0
+
+* Issues
+  * updates #7 - Archival Releases
+  * closes #12 - 0.3.0.0-release - `<Archival>` edition
 
 ---
