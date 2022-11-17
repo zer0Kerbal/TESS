@@ -9,8 +9,6 @@ updated: 04 Oct 2022 -->
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
 [![Pages][MOD:pages:shd]][MOD:pages]
 
-![Code][CODE:shd]]
-
 
 # TESS (TESS)
 
@@ -140,7 +138,6 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [MOD:discu]: https://github.com/zer0Kerbal/TESS/discussions "Discussions"
 [MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/210656-*/ "TESS Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/TESS/issues "Issues"
-[MOD:assmb]: https://zer0kerbal.github.io/TESS/Assembly "Assembly Guide"
 [MOD:markt]: https://zer0kerbal.github.io/TESS/Marketing "Marketing Slicks"
 [MOD:notic]: https://zer0kerbal.github.io/TESS/Notices "Notices"
 [MOD:parts]: https://zer0kerbal.github.io/TESS/PartsCatalog "Parts Catalog"
@@ -148,8 +145,6 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 <!--- mod -->
 [MOD:shd:latest]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TESS/master/json/mod.json
-
-[CODE:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/TESS/master/json/code.json
 
 [MOD:pages:shd]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
