@@ -2,7 +2,7 @@
   
 | modName    | TESS (TESS)                                                       |
 | ---------- | ----------------------------------------------------------------- |
-| license    | WTFPL                                                             |
+| license    | GPL-2.0                                                           |
 | author     | Matheo G and zer0Kerbal                                           |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/210656-*/) |
 | github     | (https://github.com/zer0Kerbal/TESS)                              |
