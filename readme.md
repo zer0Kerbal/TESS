@@ -44,8 +44,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 > * Compatibility patches
 > * Contracts for these glorious parts
-> * Variant Textures
-> * Model updates to Unity 2019
+> * Updated and/or Variant Textures
+> * Model updates
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
 > * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
 
