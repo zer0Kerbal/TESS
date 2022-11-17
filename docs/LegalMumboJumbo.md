@@ -23,12 +23,18 @@ updated: 15 May 2022
 
 * Table of Contents
   * [License](#license)
+  * [Original License](#original-license)
   * [Forum Post #1](#forum-i)
-  * [Forum Post #2](#forum-ii)
+  <!-- * [Forum Post #2](#forum-ii) -->
 
 ### License
 
 [License](./LegalMumboJumbo/License.md)
+[top](#legal-mumbo-jumbo)
+
+### Original License
+
+[License](./LegalMumboJumbo/OrigLicense.md)
 [top](#legal-mumbo-jumbo)
 
 ### Forum I
@@ -36,11 +42,10 @@ updated: 15 May 2022
 ![Forum](./LegalMumboJumbo/FORUM-01.png)
 [top](#legal-mumbo-jumbo)
 
-### Forum II
+<!-- ### Forum II
 
 ![Forum](./LegalMumboJumbo/FORUM-02.png)
-[top](#legal-mumbo-jumbo)
-
+[top](#legal-mumbo-jumbo) -->
 ---
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
