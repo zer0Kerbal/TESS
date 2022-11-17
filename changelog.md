@@ -13,7 +13,7 @@
 ## Version 1.0.5.0-release - `<Archival>` edition
 
 * Released
-  * on 2018-07-06
+  * on 06 Jul 2018
   * for Kerbal Space Program 1.3.1
   * by [Matheo G](https://forum.kerbalspaceprogram.com/index.php?/profile/185325-*/)
 
