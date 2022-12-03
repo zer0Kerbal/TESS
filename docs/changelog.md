@@ -28,6 +28,15 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * for Kerbal Space Program 1.12.4
   * by zer0Kerbal
 
+### Summary
+
+* Adoption by zer0Kerbal
+* lots of small fixes
+* localization completed (initial language only)
+* tags added
+* new flags
+* added part modules
+
 ### Archival Releases
 
 * 1.0.5.0-release - `<Archival>` edition
