@@ -82,12 +82,10 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Kaboom (BOOM)][BOOM]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [TweakScale (TWK)][twk]
-
-Other mods by [Matheo G][matheog]
-
-* [Insight](https://spacedock.info/mod/1899)
-* [Ariane 6](https://spacedock.info/mod/2185)
-* [New Shepard](https://spacedock.info/mod/2181)
+* Other mods by [Matheo G][matheog]
+  * [Ariane 6 (S3L)](https://forum.kerbalspaceprogram.com/index.php?/topic/210687-*/)
+  * [InSight Lander (INSIGHT)](https://forum.kerbalspaceprogram.com/index.php?/topic/210824-*/)
+  * [New Shepard (NSHPD)](https://forum.kerbalspaceprogram.com/index.php?/topic/210741-*/)
 
 ### Supports
 
