@@ -74,6 +74,7 @@ or [![CKAN][ckan:img]][ckan:url]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
+* [Klockheed Martian Ltd (KM/L)][KML]
 
 ### Suggests
 
@@ -189,8 +190,9 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 <!-- links to add-ons/mods -->
 [BIO]: https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*/ "Biomatic (BIO)"
-[GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
 [BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "Kaboom (BOOM)"
+[GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
+[KML]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Klockheed Martian Ltd (KM/L)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
 
 [mm]: https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/ "Module Manager"
