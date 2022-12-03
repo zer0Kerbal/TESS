@@ -65,6 +65,8 @@ updated: 03 Jun 2022
 
 ### Testing and Support
 
-* none
-
+* public domain
+  * [TESS transparent logo](https://commons.wikimedia.org/wiki/File:TESS_logo_(transparent_bg).png)
+  * [TESS white logo](https://commons.wikimedia.org/wiki/File:TESS_logo_(white_bg).jpg)
+  * [TESS black logo](https://commons.wikimedia.org/wiki/File:TESS_logo_(black_bg).jpg)
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
