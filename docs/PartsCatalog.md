@@ -13,7 +13,7 @@ updated: 01 Oct 2022 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# TESS (TESS)
+# Transiting Exoplanet Survey Satellite (TESS)
 
 [Home](./index.md)
 
@@ -23,7 +23,7 @@ This add-on one (1) satellite part
 
 ---
 
-* SurveyStake
+* Transiting Exoplanet Survey Satellite
 
   <img src="https://raw.githubusercontent.com/zer0Kerbal/TESS/master/docs/thumbs/tess_icon.png" alt="TESS" width="25%" height="25%" />
 
