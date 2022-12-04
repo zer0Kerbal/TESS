@@ -19,19 +19,13 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on one (1) satellite part
 
 ---
 
-* Mallet *(Only with Kerbal Inventory System installed)*
 * SurveyStake
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/TESS/master/GameData/TESS/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/TESS/master/GameData/TESS/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
-
-* MicroPad
-* OrbitalDock
-
----
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/TESS/master/docs/thumbs/tess_icon.png" alt="TESS" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
