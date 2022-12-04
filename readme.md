@@ -10,7 +10,7 @@ updated: 04 Oct 2022 -->
 [![Pages][MOD:pages:shd]][MOD:pages]
 
 
-# TESS (TESS)
+# Transiting Exoplanet Survey Satellite (TESS)
 
 Transiting Exoplanet Survey Satellite (TESS) for Kerbal Space Program.
 
